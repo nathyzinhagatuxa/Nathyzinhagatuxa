@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💜
 
-<!--
-**nathyzinhagatuxa/Nathyzinhagatuxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Nathiele Pina
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+nathiele.pina@escola.pr.gov.br
+
+@nathiele_pina
+
+![](https://media2.giphy.com/media/MDirxIJDu0372/giphy.gif?cid=ecf05e47o2e8lvrw9hrny20yocjdwsp926i3ulj6d23eugd1&ep=v1_gifs_search&rid=giphy.gif&ct=g)
